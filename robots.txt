@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://49caliber-labs.github.io/orion-general-contracting/sitemap.xml
